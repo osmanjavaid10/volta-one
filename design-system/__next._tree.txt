@@ -1,0 +1,6 @@
+:HL["/volta-one/_next/static/chunks/0w-rp1urrv6w8.css","style"]
+:HL["/volta-one/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/volta-one/_next/static/media/237858b39a32779d-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"design-system","h":64,"c":"$Q2"}]]
+0:{"b":"nW57gdj7LOg75dQDR8c3E","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

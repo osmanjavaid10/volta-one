@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /design-system/
+Disallow: /render/
+
+Sitemap: https://osmanjavaid10.github.io/volta-one/sitemap.xml
